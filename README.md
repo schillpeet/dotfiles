@@ -19,7 +19,9 @@ $ brew update && brew upgrade && brew cleanup && brew doctor
 $ ./brew-update-upgrade-cleanup-doctor.sh
 ```
 
-**NOTES**: create an alias for this script and add it to your `.zshrc`
+![example](assets/bb-example.jpeg)
+
+**NOTES**: create an alias for this script and add it to your `.zshrc`, e.g. `$ bb`
 
 
 ## Still, a lot of TODOs...
